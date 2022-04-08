@@ -1,0 +1,14 @@
+.header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    border-bottom:1px solid #f9f9f9;
+}
+.header__logo{
+    height: 45px;
+   
+    /* object-fit: contain; looks perfect  used when image becomes too wide or has tooo much heigth */
+}
+.header__icon{
+    padding: 20px;
+}
